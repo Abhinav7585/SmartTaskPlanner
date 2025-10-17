@@ -1,0 +1,4 @@
+project_id = "ictfellcxpvdenpuwndg"
+
+[functions.generate-tasks]
+verify_jwt = true
